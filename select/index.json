@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "春擬き",
+  "base_artist": "やなぎなぎ",
+  "createdAt": "2025-12-20T08:21:19.664548Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "春擬き",
+      "artist": "やなぎなぎ",
+      "has_synced": true,
+      "path": "select/01_春擬き_やなぎなぎ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "春擬き",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/02_春擬き_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "春擬き",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/03_春擬き_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "春擬き",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/04_春擬き_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "春擬き",
+      "artist": "Nagi Yanagi",
+      "has_synced": true,
+      "path": "select/05_春擬き_Nagi_Yanagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "春擬き",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_春擬き_やなぎなぎ.txt"
+    }
+  ]
+}
